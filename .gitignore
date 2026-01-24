@@ -1,0 +1,13 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary OS files
+Thumbs.db
+.DS_Store
+
+# Ignore rebase temporary files
+.git/rebase-merge/
+.git/rebase-apply/
