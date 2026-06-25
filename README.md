@@ -33,7 +33,7 @@ java-dsa-practice/
 └── 📁 dynamic_programming/    # Optimization Mechanics (Knapsack, Subsequences)
 ```
 
-> 📌 *Note: Detailed problem sheets, algorithmic breakdowns, and complexity proofs are documented individually readme files inside each separate module directory.*
+> 📌 *Note: Detailed problem sheets, algorithmic breakdowns, and complexity proofs are documented individually under readme files inside each separate module directory.*
 
 ---
 
